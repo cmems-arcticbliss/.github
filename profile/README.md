@@ -14,3 +14,6 @@ Metrics dedicated to sea ice drift, ensemble simulations, and a cross-validation
 
 ### Webpage
 The project has just started, but we will soon have a [nice web page to check  out](https://cmems-arcticbliss.github.io/)!
+
+### Code, data, publications
+The project is just starting, but as soon as we have science, codes, data produced as part of the project, we will post and document them here.
