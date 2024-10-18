@@ -13,8 +13,5 @@ The goal is to evaluate the short-term predictability of sea ice drift in an mod
 
 Metrics dedicated to sea ice drift, ensemble simulations, and a cross-validation approach will be combined to address the questions of sea ice drift predictability for a given initial error, and how the activation of an interactive ABL, with or without brittle rheology, can affect the quality and accuracy of the forecasting system.
 
-### Webpage
-The project has just started, but we will soon have a [nice web page to check  out](https://cmems-arcticbliss.github.io/)!
-
 ### Code, data, publications
 The project is just starting, but as soon as we have science, codes, data produced as part of the project, we will post and document them here.
