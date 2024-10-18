@@ -1,4 +1,5 @@
 ##  Hi there! 👋 Welcome to the GitHub organization of the  CMEMS Arctic-BLISS project  
+![Arctic-BLISS_logo](https://github.com/cmems-arcticbliss/.github/tree/main/profile/visuel_Arctic-BLISS.png)
 
 ### About
 __Arctic-BLISS__  (__Arctic__ atmospheric **B**oundary **L**ayer **I**nfluence in **S**ea ice ensemble **S**imulations: _a predictability & sensitivity study_, 2024-2026) is a project funded by the Copernicus Marine Environment Monitoring Service (CMEMS) of the European Union, led by Stephanie Leroux from Datlas, in collaboration with P. Rampal and J.-M. Brankart from IGE, Y. Ying, L. Bertino and E. Olason from NERSC and F. Lemarié from INRIA. 
