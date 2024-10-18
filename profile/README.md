@@ -1,4 +1,4 @@
-##  Hi there! 👋 Welcome to the GitHub organization of the  CMEMS Arctic-BLISS project  
+##  Hi there! 👋 Welcome to the GitHub organization of the Arctic-BLISS project  
 ![Arctic-BLISS_logo](https://github.com/cmems-arcticbliss/.github/blob/main/profile/visuel_Arctic-BLISS.png)
 
 ### About
