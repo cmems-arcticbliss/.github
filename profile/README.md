@@ -4,7 +4,7 @@
 ### About
 __Arctic-BLISS__  (__Arctic__ atmospheric **B**oundary **L**ayer **I**nfluence in **S**ea ice ensemble **S**imulations: _a predictability & sensitivity study_, 2024-2026) is a project funded by the Copernicus Marine Environment Monitoring Service (CMEMS) of the European Union, led by Stephanie Leroux from Datlas, in collaboration with P. Rampal and J.-M. Brankart from IGE, Y. Ying, L. Bertino and E. Olason from NERSC and F. Lemarié from INRIA. 
 
-![Arctic-BLISS_partners](https://github.com/cmems-arcticbliss/.github/blob/main/logos-all.png)
+![Arctic-BLISS_partners](https://github.com/cmems-arcticbliss/.github/blob/main/logos-all-cmems.png)
 
 The goal is to evaluate the short-term predictability of sea ice drift in an model integrating three innovative elements of future operational CMEMS systems: 
 * a brittle/fracture rheology (e.g., Ólason et al. 2022),
